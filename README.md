@@ -5,6 +5,6 @@
 
 * result：实验结果
 
-* jtl：jtl文件
+* scripts：实验脚本
 
-* 
+* jtl：jtl文件
